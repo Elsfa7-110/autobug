@@ -2,7 +2,7 @@ import subprocess
 import time
 
 def run_subfinder(domain):
-    subfinder_command = f"subfinder -d {domain} -o subdomains.txt"
+    subfinder_command = f"subfinder -d {domain} -all -o subdomains.txt"
     subprocess.run(subfinder_command, shell=True)
 
 def run_httprobe():
