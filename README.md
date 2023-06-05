@@ -8,3 +8,5 @@ The script will repeat the same action every hour
 to run it
 
 python autobug.py
+
+<img src="Screenshot 2023-06-05 114814.png " alt="Alt text" title="install and run">
