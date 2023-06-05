@@ -6,4 +6,5 @@ This tool will use subfinder to get the subdomains for any domain by using subfi
 The script will repeat the same action every hour
 
 to run it
+
 python autobug.py
