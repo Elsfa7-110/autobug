@@ -7,6 +7,11 @@ The script will repeat the same action every hour
 
 to run it
 
+
+git clone https://github.com/Elsfa7-110/autobug.git
+
+cd autobug
+
 python autobug.py
 
 <img src="Screenshot 2023-06-05 114814.png " alt="Alt text" title="install and run">
